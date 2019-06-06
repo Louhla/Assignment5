@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    background-image: url("../img/city-jungle.jpg");
+    background-position: 50%;
+}
+.header{
+    text-align: center;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 60px;
+    color: pink;
+    font-family: 'Pacifico', cursive;
+    width: 100%;
+    margin: 0px;
+}
+.cards{
+    margin-bottom: 5vh;
+    background-image: url("../img/house-small.jpg");
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+}
