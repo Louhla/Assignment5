@@ -20,6 +20,9 @@ h1{
     width: 100%;
     margin: 0px;
 }
+.row{
+    margin-top: 5vh;
+}
 .cards{
     margin-bottom: 5vh;
     background-image: url("../img/house-small.jpg");
@@ -27,4 +30,13 @@ h1{
     width: 150px;
     height: 150px;
     border: 5px solid white;
+}
+#newGame{
+    background-color: pink;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    height: 50px;
+    position: absolute;
+    right: 5px;
+    border-style: none;
 }
