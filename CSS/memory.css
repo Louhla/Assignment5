@@ -84,6 +84,6 @@ h1{
     }
     .row{
         display: block;
-        justify-content: space-evenly;
+        justify-content: center;
     }
 }
